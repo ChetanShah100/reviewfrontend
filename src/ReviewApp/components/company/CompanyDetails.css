@@ -1,0 +1,106 @@
+.Review{
+    border: 2px solid black;
+    width: 90%;
+    height: 740px;
+    margin: auto;
+}
+.Review .nav{
+    border: 2px solid white;
+    width: 99.7%;
+    height: 60px;
+    display: flex;
+    box-shadow: 2px 2px 10px;
+}
+.review-2{
+    border: 2px solid black;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+    height: 570px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px;
+    background: linear-gradient(to bottom,
+ white, white, #b2bfd0);
+}
+.review-2a{
+    /* border: 2px solid black; */
+    width: 95%;
+    height: 100px;
+    margin: auto;
+    display: flex;
+}
+#image{
+    background-color: black;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.review-2b{
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.review-2b img{
+    background-color: none;
+}
+.review-2a button{
+    background-color: purple;
+    height: 30px;
+    margin-left: 345px;
+    margin-top: 30px;
+    color: aliceblue;
+    font-weight: bold;
+}
+.review-3{
+    /* border: 2px solid black; */
+    width: 99%;
+    height: 120px;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+}
+.review-3 img{
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 50px;
+}
+.review-4{
+    /* border: 2px solid black; */
+    width: 99%;
+    height: 120px;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+}
+.review-4 img{
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 50px;
+}
+.review-5{
+    /* border: 2px solid black; */
+    width: 99%;
+    height: 120px;
+    margin: auto;
+    margin-top: 5px;
+    display: flex;
+}
+.review-5 img{
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 15px;
+    height: 50px;
+}
+.nav img{
+    background-color: blue;
+    width: 20px;
+    padding: 5px;
+    border-radius: 100px;
+    margin-left: 50px;
+    margin-top: 15px;
+    height: 20px;
+}
+#logo{
+    width: 10%;
+}

@@ -1,0 +1,137 @@
+
+
+.company {
+    width: 100%;
+    height:600px;
+    border: 1px solid black;
+}
+
+
+
+
+.company img {
+    margin-top: 10px;
+    margin-left: 20px;
+    width: 15%;
+    height: 50px;
+}
+
+.top1 {
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    display: flex;
+
+}
+
+.top1 .search {
+    border: 1px solid black;
+    display: flex;
+    margin: auto;
+    margin-left: 10px;
+}
+
+.top1 img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+#btn1 {
+    height: 30px;
+    width: 150px;
+    margin-top: 25px;
+    margin-right: 650px;
+    color: white;
+    background-color: rgb(153, 39, 153);
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+#btn2 {
+    height: 30px;
+    width: 150px;
+    margin-top: 25px;
+    color: white;
+    background-color: orange;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.company1 {
+    width: 100%;
+    height: 110vh;
+    border: 2px solid transparent;
+}
+
+.company1 {
+    margin: auto;
+}
+
+.company1 .company1-box {
+    width: 70%;
+    height: 20vh;
+   
+    background-color: whitesmoke;
+    margin-top: 50px;
+    margin-left: 200px;
+    display: flex;
+    box-shadow: 2px 2px 10px;
+    
+}
+
+.company1-box img {
+    width: 15%;
+    height: 18vh;
+}
+
+.company1-box .text {
+    margin-left: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.company1-box .text p {
+    font-size: 13px;
+
+} 
+/* .mainlist{
+   border: 2px solid black;
+   width: 100%;
+   height: 650px;
+}
+.mainlist button{
+    margin-left: 1000px;
+    height: 30px;
+    margin-top: 50px;
+    background-color: tomato;
+}
+.mainlist span{
+    margin-left: 150px;
+    font-weight: bold;
+}
+.main-t{ 
+    border:  2px solid black;
+    height: 150px;
+    width: 80%;
+    margin: auto;
+    margin-top: 30px;
+   
+    
+}
+.main-t img{
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 10px;
+   
+}
+.main-t-img{
+    border: 2px solid black;
+    width: 20%;
+    height: 100px;
+}
+.main-t-detail{
+   border: 2px solid black;
+   width: 50px;
+   height: 100px;
+} */
